@@ -1,0 +1,12 @@
+{
+  "name": "just-log-me-baby-test",
+  "version": "0.0.1",
+  "description": "Test app for Just Log Me Baby",
+  "main": "app.js",
+  "author": "Jonathan Darling",
+  "license": "MIT",
+  "dependencies": {
+    "chance": "^1.0.4",
+    "request": "^2.79.0"
+  }
+}
